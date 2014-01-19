@@ -72,6 +72,3 @@
 
 (set! *unchecked-math* old-unchecked-math)
 
-
-
-(peek (into (ring-buffer 3) '(1 2)))
